@@ -1,0 +1,47 @@
+html{
+	background: black;
+}
+body{
+	background: white;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 1em;
+	width: 500px;
+	margin: auto;
+padding: 10px;
+}
+
+
+
+
+
+
+
+/*main site navigation*/
+.site-navigation {
+
+}
+	.menu-main {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+	}
+		.menu-main-item {
+			display: inline-block;
+			margin:0 10px;
+		}
+			.menu-main-link {
+			    color: #26CA69;
+			    text-decoration: none;
+			    padding: 10px;
+			    display: block;
+			}
+				.menu-main-link:hover{
+					color: blue;
+					text-decoration: underline;
+					background: grey;
+				}
+
+
+
+
